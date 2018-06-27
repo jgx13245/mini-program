@@ -1,0 +1,18 @@
+/* pages/list/list.wxss */
+.search{
+  border:1px solid #000;
+  height:100%;
+  width:100;
+}
+.inputInfo{
+  width:90%;
+  border:1px solid #000;
+  margin:0 auto;
+}
+.scroll-view{
+  height:500rpx;
+}
+swiper-item image {
+  width:100%;
+  border:1rpx solid #0f0;
+}
